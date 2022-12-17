@@ -7,6 +7,7 @@
 
 
 ![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioBizo&show_icons=true&theme=radical)
+[![Marcio Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioBizo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tenologias que eu estudo e uso no meu dia a dia
 
